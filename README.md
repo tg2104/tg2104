@@ -1,6 +1,6 @@
 ## Hi there 👋  I'm Tishya Ghosh
-# 💫 About Me:
-I'm a software developer who likes building cool stuff. Always exploring new ideas and improving my skills.
+
+
 
 
 # 💻 Tech Stack:
